@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandCard&show_icons=true)]
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandCard&show_icons=true)
 
 ## ❤️Love Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandCard&langs_count=8&layout=compact")]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandCard&langs_count=8&layout=compact")
 
 
 
